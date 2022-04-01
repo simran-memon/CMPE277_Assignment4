@@ -1,7 +1,8 @@
 **ASSIGNMENT_4:**     **TorchApp**
 
-**Name: Simran Tanvir Memon
-Student Id: 015950610**
+**Name: Simran Tanvir Memon**
+
+**Student Id: 015950610**
 
 **GitHub:**   https://github.com/simran-memon/CMPE277_Assignment4
 
